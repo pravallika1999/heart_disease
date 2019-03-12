@@ -1,3 +1,3 @@
 # disease_analysis
-![alt text](matrix.png)
-![](https://raw.githubusercontent.com/chayandatta/disease_prediction/master/10%2C20.png)
+![alt text]()
+![](https://raw.githubusercontent.com/chayandatta/disease_prediction/master/1.png)
