@@ -14,6 +14,10 @@
 
 ### 0.6527777777777778
 
+## sigmoid:
+
+### 0.6296296296296297
+
 # DATA:
 
 ![](https://raw.githubusercontent.com/chayandatta/disease_prediction/master/1.png)
